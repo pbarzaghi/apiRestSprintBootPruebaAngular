@@ -1,5 +1,4 @@
 package ar.desdelaraiz.demoDLR01.entity;
- 
 import jakarta.annotation.Generated;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
